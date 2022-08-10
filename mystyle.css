@@ -1,0 +1,41 @@
+p1{font:serif;font-size:14px}
+p2{font:serif;font-size:14px}
+p3{font:serif;font-size:14px}
+p4{font:serif;font-size:14px}
+p5{font:serif;font-size:14px}
+p6{font:serif;font-size:14px}
+p7{font:serif;font-size:14px}
+p8{font:serif;font-size:14px}
+body{background-color:#b1edf5}
+a:link{color:red;}
+a:visited{color:green;}
+a:hover{color:blue;
+text-decoration: underline;}
+a:active{color:purple;}
+.rcorners1 {
+  border-radius: 25px;
+  background: #403737;
+  padding: 20px; 
+  width: 1385px;
+  height: 150px;  
+}
+
+.column2{
+  width: 85%;
+  padding: 10px;
+  
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+}
+li{
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+}
+.pfp{
+  border: 2px solid white;
+}
